@@ -1,0 +1,10 @@
+.hero-full-container {
+    height: 90vh;
+
+    .hero-full-wrapper {
+        display: table;
+        width: 100%;
+        height: 90vh;
+        min-height: 90vh
+    }
+}
